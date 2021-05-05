@@ -4,6 +4,7 @@ jhjkhjkh
 wahhljhlkjhjk
 hkjhjkhlj
 branch111
+<<<<<<< HEAD
 
 
 hjkhjkj
@@ -11,3 +12,18 @@ hjkhjkj
 branch
 111
 1111
+=======
+111
+
+
+
+22222222
+hghgkjgh
+
+
+2222
+
+
+
+again 22221
+>>>>>>> branch2
