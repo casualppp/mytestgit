@@ -7,8 +7,10 @@ class evaluate:
         last_click_item_dict = dict(zip(trn_last_click_df['user_id'], trn_last_click_df['click_article_id']))
         user_num = len(user_recall_items_dict)
         
+
         #ghjgjhkgjkhlkjhlkjhkj
         #khkjhkljhjkl
+
 
         for k in range(10, topk+1, 10):
             hit_num = 0
